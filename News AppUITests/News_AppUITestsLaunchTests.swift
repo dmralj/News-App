@@ -1,10 +1,3 @@
-//
-//  News_AppUITestsLaunchTests.swift
-//  News AppUITests
-//
-//  Created by dvp on 21/02/2024.
-//
-
 import XCTest
 
 final class News_AppUITestsLaunchTests: XCTestCase {
